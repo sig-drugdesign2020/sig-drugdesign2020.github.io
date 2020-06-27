@@ -117,7 +117,7 @@ p {
   position: relative;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 700px) {
   .intro .intro-img {
     width: 75%;
     float: right;
