@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lora';
-  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
+  background-color: black;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -50,8 +50,8 @@ p {
 }
 
 .page-section {
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 .section-heading {
@@ -75,12 +75,12 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(17, 33, 40, 0.9);
   font-family: 'Raleway';
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #206139;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -89,7 +89,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #206139;
 }
 
 @media (min-width: 992px) {
@@ -100,7 +100,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #206139;
   }
 }
 
@@ -143,9 +143,9 @@ p {
 }
 
 .cta {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: rgba(17, 33, 40, 0.9);
 }
 
 .cta .cta-inner {
@@ -211,7 +211,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #e6a756;
+  color: #206139;
 }
 
 @media (min-width: 992px) {
@@ -230,11 +230,11 @@ p {
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #206139 !important;
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #206139 !important;
 }
 
 .btn {
@@ -242,8 +242,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #206139;
+  border-color: #206139;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
