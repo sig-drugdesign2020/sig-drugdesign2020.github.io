@@ -207,7 +207,7 @@ p {
 }
 
 .list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(230, 167, 86, 0.5);
+  border-bottom: 1px solid rgba(32,97,57, 0.5);
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
