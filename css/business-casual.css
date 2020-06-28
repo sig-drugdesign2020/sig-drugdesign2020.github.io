@@ -220,7 +220,7 @@ p {
 
 @media (min-width: 992px) {
   .list-hours {
-    width: 50%;
+    width: 90%;
     font-size: 1.1rem;
   }
 }
