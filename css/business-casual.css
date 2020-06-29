@@ -230,11 +230,19 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(255, 255, 255, 0.85);
 }
 
 .text-primary {
   color: #206139 !important;
+}
+
+.text-footer-title {
+  color: #151D32 !important;
+}
+
+.text-footer-small {
+  color: #151D32 !important;
 }
 
 .bg-primary {
