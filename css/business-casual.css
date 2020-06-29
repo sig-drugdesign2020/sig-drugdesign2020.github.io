@@ -114,6 +114,10 @@ p {
   }
 }
 
+.medias_logos {
+    display: inline;
+}
+
 .btn-xl {
   font-weight: 700;
   font-size: 0.8rem;
@@ -276,3 +280,4 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
