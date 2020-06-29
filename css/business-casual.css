@@ -3,6 +3,8 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-casual/blob/master/LICENSE)
  */
+@import url(//db.onlinewebfonts.com/c/d047865e0008f13cd1aa6146e29cb6bc?family=FV+Almelo);
+@font-face {font-family: "FV Almelo"; src: url("//db.onlinewebfonts.com/t/d047865e0008f13cd1aa6146e29cb6bc.eot"); src: url("//db.onlinewebfonts.com/t/d047865e0008f13cd1aa6146e29cb6bc.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/d047865e0008f13cd1aa6146e29cb6bc.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/d047865e0008f13cd1aa6146e29cb6bc.woff") format("woff"), url("//db.onlinewebfonts.com/t/d047865e0008f13cd1aa6146e29cb6bc.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/d047865e0008f13cd1aa6146e29cb6bc.svg#FV Almelo") format("svg"); }
 
 body {
   font-family: 'Lora';
@@ -34,7 +36,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Raleway';
+  font-family: FV Almelo;
 }
 
 .site-heading .site-heading-upper {
