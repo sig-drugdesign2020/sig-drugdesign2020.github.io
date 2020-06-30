@@ -253,6 +253,7 @@ p {
 
 .text-footer-title {
   color: #151D32 !important;
+  font-size: 1.1rem;
 }
 
 .text-footer-small {
@@ -281,3 +282,16 @@ p {
   font-weight: 100 !important;
 }
 
+.logos-cont {
+    font-family: Lato;
+    align-items: center;
+    margin-left: 1.5in;
+    text-align: center;
+}
+
+.logos-media{
+    margin-bottom: 15px;
+    display: inline-block;
+	width: 80px;
+	height: auto;
+}
