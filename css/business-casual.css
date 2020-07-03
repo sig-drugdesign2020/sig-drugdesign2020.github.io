@@ -295,3 +295,9 @@ p {
 	width: 80px;
 	height: auto;
 }
+
+.image-txt-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
