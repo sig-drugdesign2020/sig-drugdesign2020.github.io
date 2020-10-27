@@ -1478,3 +1478,4 @@
 [0704/142008.672:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0704/142008.672:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0704/142008.672:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1026/191542.250:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
