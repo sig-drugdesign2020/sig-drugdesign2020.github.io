@@ -221,7 +221,7 @@ p {
 }
 
 .list-hours {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .list-hours .list-hours-item {
@@ -304,4 +304,17 @@ p {
   display: flex;
   align-items: center;
   flex-direction: row;
+}
+
+.schedule-item {
+  border-bottom: 1px solid #4a5282;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.schedule_speaker img {
+  height: 100%;
+  transform: translateX(-50%);
+  margin-left: 50%;
+  transition: all ease-in-out 0.3s;
 }
